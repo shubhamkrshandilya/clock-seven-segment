@@ -1,2 +1,3 @@
 # clock-seven-segment using p5js
-see demo at 
+see demo at https://shubhamkrshandilya.github.io/clock-seven-segment/
+Motivation of this project https://www.youtube.com/watch?v=MlRlgbrAVOs - DANIEL SHIFFMAN

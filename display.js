@@ -25,7 +25,7 @@ class Display {
 
     edge(x, y, hor, flag){
         if(flag)
-            fill(255)
+            fill(255,0,0);
         else
             fill(0);
         if(hor)

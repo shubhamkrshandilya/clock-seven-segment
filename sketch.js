@@ -33,7 +33,7 @@ function draw(){
    display[4].show(number[sec[0]]);
    display[5].show(number[sec[1]]);
    
-   fill(255);
+   fill(255,0,0);
    for(let i=0;i<2;i++){
       ellipse(colon[i], height/2-20, 10);
       ellipse(colon[i], height/2+40, 10);
